@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Figuras Geometricas</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cubo">Cubo</string>
+    <string name="esfera">Esfera</string>
+    <string name="cono">Cono</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="opcuadrado">Area del cuadrado</string>
+    <string name="oprectangulo">Area del rectangulo</string>
+    <string name="opcirculo">Area del circulo</string>
+    <string name="optriangulo">Area del triangulo</string>
+    <string name="opcilindro">Volumen del cilindro</string>
+    <string name="opcono">Volumen del cono</string>
+    <string name="opesfera">Volumen de la esfera</string>
+    <string name="opcubo">Volumen del cubo</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">Area:</string>
+    <string name="volumen">Volumen:</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="oprealizadas">Operaciones realizadas</string>
+    <string name="opciones">Opciones</string>
+    <string name="alturaTriangulo">Inserte aqui la altura del triangulo</string>
+    <string name="baseTriangulo">Inserte aqui la Base del triangulo</string>
+    <string name="ok">Ok</string>
+    <string name="alturaRectangulo">Inserte la altura del rectangulo</string>
+    <string name="baseRectangulo">Inserte la base del rectangulo</string>
+    <string name="Radio">Inserte aqui el radio del circulo</string>
+    <string name="insertCilindro">Inserte el radio del cilindro</string>
+    <string name="insertAltura">Inserte la altura del cilindro</string>
+    <string name="insertEsfera">Inserte el radio de la esfera</string>
+    <string name="insertCubo">Inserte el valor de un lado</string>
+    <string name="insertAlturacono">Inserte la altura del cono</string>
+    <string name="insertRadioCono">Inserte el radio del cono</string>
+    <string name="valorDellado">Valor del lado</string>
+    <string-array name="opciones">
+
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/oprealizadas</item>
+    </string-array>
+    <string-array name="areas">
+
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string-array name="volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+
+</resources>
